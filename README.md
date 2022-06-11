@@ -1,4 +1,4 @@
-# ⭐ This is a future social media applciation Space 🌠
+# ⭐ This is a future social media application, Space 🌠
 
 ## Getting Started
 
