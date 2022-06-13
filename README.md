@@ -1,7 +1,4 @@
-# ⭐ This is a feature brand of Space 🌠
-
-## Current features under developement:
- - Starting page to register/log in
+# ⭐ This is a future social media application, Space 🌠
 
 ## Getting Started
 
