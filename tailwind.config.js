@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'space': "url('/img/space.png')",
+        'space': "url('/images/space.png')",
       },
       spacing: {
         '1/8': '12.5%',

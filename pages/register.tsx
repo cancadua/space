@@ -7,7 +7,7 @@ const register = () => {
             <div className='flex flex-wrap flex-row gap-12 m-12 h-min
             border-solid border-3 border-blue-500 w-2/5 justify-center bg-white rounded-xl p-4'>
                 <div className='flex w-full h-min justify-center'>
-                    <h1 className='text-5xl'>🌟 Welcome 🌟</h1>
+                    <h1 className='text-5xl'>🌟 Register 🌟</h1>
                 </div>
                 <form className='flex w-full flex-wrap flex-col gap-3 items-center'>
                     <h1>New to Space? Register!</h1>
@@ -20,7 +20,6 @@ const register = () => {
                 <div className='justify-between flex w-full'>
                     <Link href={'/restore'} passHref>
                         <a className='flex text-sm h-min'>Forgot your password? Restore it!</a>
-
                     </Link>
                     <Link href={'/login'} passHref>
                         <a className='flex text-sm h-min'>Already on Space? Log in!</a>
