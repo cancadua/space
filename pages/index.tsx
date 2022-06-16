@@ -1,5 +1,4 @@
-import type { NextPage } from 'next'
-import {Header, Main, Footer, Layout} from "../components";
+import {Layout} from "../components";
 import {ReactElement} from "react";
 import Link from "next/link";
 
